@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Maafin Aku, Sayang ❤️</title>
+  <title>Maafin Aku, Widyaa🤍  </title>
   <style>
     body {
       margin: 0;
@@ -75,7 +75,7 @@
 </head>
 <body>
   <div class="card">
-    <h1>Maafin Aku ya, Sayang ❤️</h1>
+    <h1>Maafin Aku ya, Widyaa 🤍</h1>
     <p>Aku sadar aku udah bikin kamu kesal. Aku nggak bermaksud begitu. Semoga kamu mau maafin aku 🙏</p>
     <button onclick="alert('Makasih udah maafin aku, love you ❤️')">Maafin Aku</button>
   </div>
